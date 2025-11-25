@@ -30,7 +30,7 @@ To create methods to calculate the area of the circle
 ## PROGRAM:
  ```
 Program to implement a Methods using Java
-Developed by: CHETHAN KMUAR G
+Developed by: CHETHAN KUMAR G
 RegisterNumber: 212222240022
 ```
 
@@ -68,6 +68,7 @@ public class Main {
 
 ## RESULT:
 Thus, the program to create methods to calculate the area of circle is implemented successfully.
+
 
 
 
